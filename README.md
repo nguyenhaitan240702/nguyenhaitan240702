@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 From: 10 April 2022 - To: 17 April 2022
 
 Other        27 hrs 7 mins   ██████████████████████▒░░   89.14 %
+PHP         
+Javascript
+CSS
 ```
 
 <!--END_SECTION:waka-->
