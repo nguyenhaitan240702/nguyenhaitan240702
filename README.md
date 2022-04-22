@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nguyenhaitan240702
+- 👋 Hi, I’m Nguyễn Hải Tân
+- 🤐 Nickname ... Sumo
 - 👀 I’m interested in ... everythings
 - 🌱 I’m currently learning .IT
 - 
@@ -14,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 From: 14 April 2022 - To: 21 April 2022
 
 Other        34 hrs 16 mins  █████████████████████▒░░░   85.84 %
+PHP        34 hrs 16 mins  █████████████████████▒░░░   85.84 %
+JavaScript        34 hrs 16 mins  █████████████████████▒░░░   85.84 %
+CSS        34 hrs 16 mins  █████████████████████▒░░░   85.84 %
 ```
 
 <!--END_SECTION:waka-->
