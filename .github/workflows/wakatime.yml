@@ -19,6 +19,6 @@ jobs:
           SHOW_OS: true
           SHOW_TITLE : true
           SHOW_PROJECTS: true
-          SHOW_TIMEZONE: trua
+          SHOW_TIMEZONE: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_LOC_CHART: true
