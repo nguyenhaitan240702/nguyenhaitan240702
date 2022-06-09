@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Other            31 hrs 4 mins   ████████████████████▒░░░░   80.80 %
+Other            29 hrs 6 mins   ███████████████████▒░░░░░   76.75 %
 ```
 
 <!--END_SECTION:waka-->
