@@ -16,5 +16,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          USERNAME: nguyenhaitan240702
+          USERNAME: ${{ github.nguyenhaitan240702 }}
 
