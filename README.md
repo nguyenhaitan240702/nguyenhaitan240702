@@ -36,8 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhaitan240702&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhaitan240702)
 
 ---
 
