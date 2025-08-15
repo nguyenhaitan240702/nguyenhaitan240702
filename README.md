@@ -5,10 +5,10 @@
 - 🔭 Hiện tôi đang phát triển các ứng dụng **Node.js full-stack** — từ API, WebSocket đến quản lý file system.
 - 💎 Yêu thích code **sạch**, UI **thân thiện**, hệ thống **ổn định** và trải nghiệm **người dùng mượt mà**.
 - 🛠️ Sẵn sàng xử lý các bài toán phức tạp như:
-  - Đồng bộ dữ liệu nhiều nền tảng.
-  - Tối ưu hiệu suất xuất dữ liệu lớn (hàng triệu bản ghi).
-  - Giao diện tương tác động: tiến trình tải, toast, badge realtime.
-  - WebSocket service & listener thông minh.
+    - Đồng bộ dữ liệu nhiều nền tảng.
+    - Tối ưu hiệu suất xuất dữ liệu lớn (hàng triệu bản ghi).
+    - Giao diện tương tác động: tiến trình tải, toast, badge realtime.
+    - WebSocket service & listener thông minh.
 
 ### 🛠️ Công nghệ yêu thích
 
@@ -19,7 +19,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-CCFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
